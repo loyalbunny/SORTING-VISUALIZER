@@ -1,5 +1,7 @@
-# SORTING-VISUALIZER
-This is an application for visualizing various sorting algorithms. Implementations include: Bubble Sort, Merge Sort, Quick Sort, Heap Sort, Selection Sort and Insertion Sort
+# Sorting-Visualizer
+
+This is an application for visualizing various sorting algorithms. Implementations include: Bubble Sort, Merge Sort, Quick Sort, Heap Sort, Selection Sort and Insertion Sort.
+Implemented algorithms include:
 
 - [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
 - [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort)
