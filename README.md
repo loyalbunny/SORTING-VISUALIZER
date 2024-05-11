@@ -10,7 +10,7 @@ This is an application for visualizing various sorting algorithms. Implementatio
 - [Heap Sort](https://en.wikipedia.org/wiki/Heapsort)
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 
-<img src="C:\Users\harsh\OneDrive\Family file\Screenshots\Screenshot 2024-05-11 190524.png" title="Sorting-Visualizer">
+![sorting_process]<img src="C:\Users\harsh\OneDrive\Desktop\Sorting-Visualizer-main\sorting_process.png" title="Sorting-Visualizer">
 
 ## How to use
 
