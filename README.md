@@ -10,7 +10,8 @@ This is an application for visualizing various sorting algorithms. Implementatio
 - [Heap Sort](https://en.wikipedia.org/wiki/Heapsort)
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 
-![sorting_process]<img src="C:\Users\harsh\OneDrive\Desktop\Sorting-Visualizer-main\sorting_process.png" title="Sorting-Visualizer">
+![sorting_process](https://github.com/loyalbunny/SORTING-VISUALIZER/assets/93830982/7e1e88e4-6348-432a-b273-8c86ebb7bfaa)
+
 
 ## How to use
 
@@ -18,3 +19,9 @@ This is an application for visualizing various sorting algorithms. Implementatio
 - Click on the algorithm you want to visualize
 - Adjust speed and size of the array
 
+## Technologies
+
+A list of technologies used within the project:
+* [HTML](https://html.spec.whatwg.org/): Version 5 
+* [CSS](https://www.w3.org/TR/CSS/#css): Version 2.1
+* [JavaScript]
